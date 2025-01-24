@@ -1,0 +1,51 @@
+RoomID,Homeowner,Area,Property Type,Number of Bedrooms,Square Feet,Availability Date,Price
+H1,Ashley,Downtown,Condo,Studio,1000,August,1000
+H2,Ashley,Ritchie,House,2,1440,January,1800
+H3,Nick,McKernan,Apartment,1,400,September,500
+H4,Robert,Oliver,Condo,2,1600,February,2000
+H5,Mila,Strathcona,Apartment,Studio,900,July,1800
+H6,Nick,Strathcona,Condo,3,1440,August,1800
+H7,Patel,McKernan,Condo,Studio,600,January,720
+H8,Mila,Downtown,Condo,4,1920,Not Available,2400
+H9,Percy,Downtown,Condo,Studio,800,March,800
+H10,Patel,Oliver,Condo,4,2880,July,3600
+H11,Diana,McKernan,Condo,3,1200,March,1500
+H12,Maya,Belgravia,Apartment,2,1280,November,1600
+H13,Anna,Downtown,House,2,1600,November,2000
+H14,Ashley,McKernan,Apartment,4,3200,September,4000
+H15,Nick,Strathcona,Apartment,1,480,May,600
+H16,Maya,Park Allen,House,2,1440,February,1800
+H17,Robert,Oliver,Apartment,Studio,600,October,600
+H18,Nick,Park Allen,Apartment,1,720,October,900
+H19,Maya,Strathcona,Apartment,2,1440,December,1800
+H20,Maya,Garneu,Apartment,2,1440,March,1800
+H21,Ashley,McKernan,Condo,1,480,August,600
+H22,Percy,Strathcona,House,2,800,August,1000
+H23,George,Downtown,House,3,1920,Not Available,2400
+H24,Nick,Oliver,Condo,4,1600,August,2000
+H25,Nick,Belgravia,Apartment,1,800,August,1000
+H26,George,Garneu,Apartment,2,1600,December,2000
+H27,Nick,Park Allen,Condo,4,2240,March,2800
+H28,Patel,Strathcona,House,2,800,May,1000
+H29,Robert,Park Allen,Condo,4,1920,July,2400
+H30,George,Downtown,Apartment,Studio,800,July,960
+H31,Anna,Garneu,House,3,1200,January,1500
+H32,Ashley,McKernan,House,Studio,700,January,979
+H33,Mila,Ritchie,House,1,400,October,500
+H34,George,Downtown,House,Studio,700,November,1120
+H35,Diana,Garneu,House,1,560,August,700
+H36,George,Downtown,Apartment,2,1280,September,1600
+H37,George,Ritchie,Apartment,1,800,February,1000
+H38,Diana,McKernan,Condo,1,480,April,600
+H39,Patel,Park Allen,Apartment,3,1920,June,2400
+H40,George,Strathcona,Condo,Studio,800,May,960
+H41,Nick,Strathcona,House,3,1200,October,1500
+H42,Siraj,Oliver,Condo,Studio,900,August,1620
+H43,James,Downtown,Condo,4,1600,June,2000
+H44,George,Garneu,House,2,960,February,1200
+H45,Ashley,Oliver,Apartment,4,2560,Not Available,3200
+H46,Diana,Garneu,House,2,1120,March,1400
+H47,Robert,Ritchie,House,3,1200,July,1500
+H48,Percy,Oliver,House,Studio,600,January,600
+H49,James,Garneu,Apartment,2,1280,April,1600
+H50,Anna,Oliver,Condo,Studio,900,July,1080
